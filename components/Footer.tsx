@@ -22,7 +22,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-gray-400 mb-4">
-              Full Stack Developer | Computer Science Specialist @ UofT
+              Software Developer | Computer Science Specialist @ UofT
             </p>
             <div className="flex gap-3">
               <a 

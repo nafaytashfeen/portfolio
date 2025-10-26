@@ -20,7 +20,7 @@ export default function Hero() {
             </div>
 
             <h1 className="text-6xl font-bold text-white mb-4">
-              Full Stack
+              Software
               <br />
               <span className="bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
                 Developer
