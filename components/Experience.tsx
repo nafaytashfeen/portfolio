@@ -60,6 +60,7 @@ export default function Experience() {
               company={exp.company}
               location={exp.location}
               period={exp.period}
+            //@ts-ignore
               achievements={exp.achievements}
               isRemote={exp.isRemote}
             />
